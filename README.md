@@ -1,0 +1,123 @@
+r_show_build_info "false"
+fps_max "999"
+fps_max_ui "999"
+fps_max_tools "999"
+
+cl_crosshairgap_useweaponvalue "0"
+cl_crosshair_recoil "0"
+cl_show_observer_crosshair "0"
+cl_crosshair_drawoutline "0"
+cl_crosshair_outlinethickness "0.5"
+cl_crosshairalpha "255"
+cl_crosshaircolor "4"
+cl_crosshaircolor_b "255"
+cl_crosshaircolor_g "255"
+cl_crosshaircolor_r "255"
+cl_crosshairdot "0"
+cl_crosshairgap "-4"
+cl_crosshairsize "1"
+cl_crosshairstyle "4"
+cl_crosshairthickness "1"
+cl_crosshairusealpha "1"
+cl_crosshair_sniper_width "0"
+cl_crosshair_friendly_warning "0"
+
+
+cl_radar_scale "0.5"
+cl_radar_icon_scale_min "0.8"
+cl_hud_radar_scale "1.1"
+r_fullscreen_gamma "2.2"
+cl_silencer_mode "0"
+r_drawtracers_firstperson "true"
+cl_player_ping_mute "1"
+cl_debounce_zoom "false"
+engine_low_latency_sleep_after_client_tick "true"
+demo_flush "1"
+iv_off
+sensitivity "1.1"
+zoom_sensitivity_ratio "1"
+cl_sniper_auto_rezoom "true"
+rate "786432"
+volume "0.5"
+hud_scaling "1.1"
+hud_showtargetid "true"
+cl_hud_color "0"
+cl_showloadout "true"
+cl_teamid_overhead_mode "2"
+cl_teamid_overhead_colors_show "true"
+cl_allow_animated_avatars "false"
+cl_teamcounter_playercount_instead_of_avatars "false"
+viewmodel_offset_x "2.5"
+viewmodel_offset_y "0"
+viewmodel_offset_z "-1.5"
+viewmodel_fov "68"
+snd_steamaudio_enable_perspective_correction "0"
++cl_show_team_equipment
+bind " " "toggleconsole"
+bind "h" "-attack;-attack2"
+bind "i" "noclip"
+bind "k" "say_team GOD RUNDE GUTTER✔"
+bind "n" "+jump;+throw"
+bind "z" "player_ping"
+bind "f" "slot7"
+bind "t" "+lookatweapon"
+bind "v" "slot10"
+bind "c" "slot8"
+bind "MWHEELUP" "+jump"
+bind "MWHEELDOWN" "+jump"
+bind "n" "+jump"
+bind "space" "+jump"
+
+cl_crosshair_t "0"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
